@@ -1,0 +1,18 @@
+Diabetics Prediction Algorithm
+
+Step 1 – Importing Modules
+
+Step 2 – Loading the Dataset
+
+Step 3 – Renaming the Columns
+
+Step 4 – Separating Inputs and Outputs
+
+Step 5 – Train-Test Split of the Data
+
+Step 6 – Building the Model
+
+Step 7 – Training and Testing of the Model
+
+
+
